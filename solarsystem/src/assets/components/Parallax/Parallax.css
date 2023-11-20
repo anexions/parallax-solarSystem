@@ -1,0 +1,10 @@
+h1{
+    color: antiquewhite;
+}
+
+.estrellasPequeñas{
+    background-image: url(../../img/stars01.png);
+}
+.estrellasMedianas{
+    background-image: url(../../img/stars02.png);
+}
